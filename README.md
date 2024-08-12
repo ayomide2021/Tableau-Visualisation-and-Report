@@ -35,7 +35,16 @@ Using visualisation and calculated field in Tableau, I aim to answer the followi
 
 •	What are the opportunities and challenges in specific industries based on their job growth trends, and how can these insights guide strategic planning?
 
-# methodology
+# Methodology
 
 
 # Data Analysis and Visualization
+
+
+# Results and Insights
+
+
+# Tech Used
+•	Tableau
+
+•	Excel
