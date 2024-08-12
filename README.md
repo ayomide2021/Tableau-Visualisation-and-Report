@@ -40,6 +40,23 @@ Using visualisation and calculated field in Tableau, I aim to answer the followi
 
 # Data Analysis and Visualization
 
+## Job Distribution by UK Cities
+![1](https://github.com/user-attachments/assets/6b68731c-bb76-4651-b858-4cd2e7544a23)
+
+
+![2](https://github.com/user-attachments/assets/8bd52668-f37c-42c8-a5a3-3014f30ac7c6)
+
+
+![3](https://github.com/user-attachments/assets/d151fca4-f446-44a6-94e2-3569fce53802)
+
+
+![4](https://github.com/user-attachments/assets/8ce71de1-8799-4ead-a622-ad4a46d4578f)
+
+
+
+![5](https://github.com/user-attachments/assets/ca598df7-f95e-4c71-82f9-974acad67d27)
+
+
 
 # Results and Insights
 
