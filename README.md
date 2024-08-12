@@ -58,6 +58,9 @@ Data was efficiently cleaned and transformed before analysis and visualisation
 
 
 ## Key Indicators
+
+![image](https://github.com/user-attachments/assets/0fb61d07-5e26-4f0b-8f8d-ab881ed31e29)
+
 ![5](https://github.com/user-attachments/assets/ca598df7-f95e-4c71-82f9-974acad67d27)
 
 
