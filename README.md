@@ -43,6 +43,7 @@ Using visualisation and calculated field in Tableau, I aim to answer the followi
 
 # Results and Insights
 
+
 Overall Job Growth: The total number of jobs increased by 443,276 during this period, with London seeing the most significant growth, adding approximately 400,000 jobs.
 
 Industry Trends: The Professional Services sector experienced the highest job growth (+134,655), followed by Administrative Services and Real Estate Activities, while industries such as Mining and Quarrying saw minimal increases.
