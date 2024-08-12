@@ -19,3 +19,18 @@ These findings underscore the continued concentration of jobs in major UK cities
 # Business Problem
 The project visualizes job trends across various UK cities between 2011 and 2014, highlighting changes in the number of jobs by industry and location. The problem addressed here is the need to understand how job distribution has evolved over this period, particularly in key industries and metropolitan areas. This analysis is critical for stakeholders, including policymakers, city planners, and business leaders, who require insights into regional employment trends to inform economic development strategies and resource allocation.
 
+
+# Objectives
+Using visualisation and calculated field in Tableau, I aim to answer the following questions 
+
+•	How has the total number of jobs in UK cities changed between 2011 and 2014?
+
+•	Which industries have experienced the most significant job growth or decline during this period?
+
+•	What is the geographic distribution of jobs across different UK cities, and how has it evolved from 2011 to 2014?
+
+•	How can policymakers, city planners, and business leaders use this data to make informed decisions about economic development and resource allocation?
+
+•	Which UK cities are emerging as key economic hubs, and what factors are driving their job market growth?
+
+•	What are the opportunities and challenges in specific industries based on their job growth trends, and how can these insights guide strategic planning?
